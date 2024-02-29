@@ -20,11 +20,11 @@ On both script "HOST" and "PORT" need to be configured with the IP and the port 
 
 
 
-Next :
--> Scan the device to see if there's juicy stuff.
--> Scan the network for the same reason.
--> Hide the drone.
--> Make it persistent.
--> Give it the ability to spread ?
--> Profit.
--> Flee to another planet.
+Next :  
+-> Scan the device to see if there's juicy stuff.  
+-> Scan the network for the same reason.  
+-> Hide the drone.  
+-> Make it persistent.  
+-> Give it the ability to spread ?  
+-> Profit.  
+-> Flee to another planet.  
